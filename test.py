@@ -1,0 +1,7 @@
+#print('hello world')
+#name = input("Enter your name")
+#print("Hello",name)
+hrs = input("Enter Hours:")
+rate = input("Enter Rate:")
+pay = float(hrs) * float(rate)
+print("Pay:",pay)
